@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 My personal project: Turn your Telegram channel into a live website.
 
-https://github.com/user-attachments/assets/e467940f-0142-4d5b-9a5f-0d3c8e119073
+
+[![Watch the video]](https://github.com/user-attachments/assets/e467940f-0142-4d5b-9a5f-0d3c8e119073)
 
 Feel free to browse https://tg2web.live, meanwhile you can also join this [test channel](https://t.me/+sNoIsdwqXJ1lNjU0) for viewing how good they keep in sync.
 It doesn't really matter if the channel is public or private at all.
