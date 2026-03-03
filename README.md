@@ -26,3 +26,4 @@ My personal projects
   It doesn't really matter if the channel is public or private at all.
 
 - Order flow confirmation from CEXs to assist trading cryptos
+  https://cvd.kljsandjb.me
