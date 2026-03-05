@@ -27,3 +27,4 @@ My personal projects
 
 - Order flow confirmation from CEXs to assist trading cryptos
   https://cvd.kljsandjb.me
+  <img width="1494" height="841" alt="Screenshot 2026-03-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/8eea5f78-b87b-4e70-8986-20df19d1d9bf" />
