@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 
 My personal projects
-- Turn your Telegram channel into a live website.
+- Turn your Telegram channel(public + private) into a live website. You will get real time updates while you're online on a channel page. The contents can be indexed by search engines very well as it is all server-side rendering. It supports sending new posts, edit existing posts, formatting of the text, etc. It has a few benefits e.g.
+  - Bypass the bans due to regional restrictions
+  - Content creators can focus on their work, if you want to write tech blog, sharing daily life, trading logs and etc, use your imaginations :)
+  - Much better SEO as even public channel cannot be indexed well, it is very helpful to promote the channel and potentially attract much more subscribers.
+  - It leaves memory on the internet, if it is important to you. :)
   
   <img width="1290" height="772" alt="image" src="https://github.com/user-attachments/assets/ec31f8bb-1415-47bf-8a15-5419f6290607" />
 
