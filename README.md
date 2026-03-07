@@ -37,6 +37,6 @@ My personal projects
   Feel free to browse https://tg2web.live, meanwhile you can also join this [test channel](https://t.me/+KP5YLs5mgJc5YmVk) for viewing how good they keep in sync.
   It doesn't really matter if the channel is public or private at all.
 
-- Order flow confirmation from CEXs to assist trading cryptos
+- Order flow confirmation from CEXs to assist trading cryptos, it is not meant to be used solely but as a confluence, e.g. key S/R levels.
   https://cvd.kljsandjb.me
   <img width="1494" height="841" alt="Screenshot 2026-03-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/8eea5f78-b87b-4e70-8986-20df19d1d9bf" />
