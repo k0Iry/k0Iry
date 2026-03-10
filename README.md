@@ -21,21 +21,14 @@ My personal projects
   - Bypass the bans due to regional restrictions
   - Content creators can focus on their work, if you want to write tech blog, sharing daily life, trading logs and etc, use your imaginations :)
   - Much better SEO as even public channel cannot be indexed well, it is very helpful to promote the channel and potentially attract much more subscribers.
+  - Extend the discussion outside the telegram platform, so you can login via Google and leave any comments or likes or share the single post very easily with others.
   - It leaves memory on the internet, if it is important to you. :)
   
-  <img width="1290" height="772" alt="image" src="https://github.com/user-attachments/assets/ec31f8bb-1415-47bf-8a15-5419f6290607" />
-
-  <img width="1536" height="689" alt="image" src="https://github.com/user-attachments/assets/caa9efe3-74a1-4694-8568-261db2f0fcc5" />
-  <img width="900" height="589" alt="Screenshot 2026-03-07 at 11 24 31 PM" src="https://github.com/user-attachments/assets/deba394d-0b5b-4676-a811-4531508f8cac" />
-  <img width="1054" height="841" alt="Screenshot 2026-03-07 at 11 24 51 PM" src="https://github.com/user-attachments/assets/9003cc8c-44ce-4801-92a2-2dfe3dc6728b" />
-  <img width="902" height="480" alt="Screenshot 2026-03-07 at 11 24 57 PM" src="https://github.com/user-attachments/assets/47325f69-db47-4be5-8c84-aae84234513b" />
-
-
-
-  
+  <img width="931" height="704" alt="Screenshot 2026-03-10 at 9 13 54 PM" src="https://github.com/user-attachments/assets/a9e13d8c-9e6f-4293-824f-b88104805c46" />
+  <img width="898" height="1080" alt="Screenshot 2026-03-10 at 9 14 14 PM" src="https://github.com/user-attachments/assets/d10f4e36-eaa7-4476-a835-2c26e62511e0" />
   
   Feel free to browse https://tg2web.live, meanwhile you can also join this [test channel](https://t.me/+KP5YLs5mgJc5YmVk) for viewing how good they keep in sync.
-  It doesn't really matter if the channel is public or private at all.
+  And if you find it interesting, don't hesitate to leave any comments or click likes under any post you like.
 
 - Order flow confirmation from CEXs to assist trading cryptos, it is not meant to be used solely but as a confluence, e.g. key S/R levels.
   https://cvd.kljsandjb.me
