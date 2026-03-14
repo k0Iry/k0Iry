@@ -34,7 +34,7 @@ My personal projects
   https://cvd.kljsandjb.me
   <img width="1494" height="841" alt="Screenshot 2026-03-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/8eea5f78-b87b-4e70-8986-20df19d1d9bf" />
 
-- Direct OneDrive is a web app for connecting one or more OneDrive accounts and browsing shared folders through a clean interface.
+- [Direct OneDrive](https://kljsandjb.me) is a web app for connecting one or more OneDrive accounts and browsing shared folders through a clean interface.
   - After connecting a Microsoft account, the app lets you choose a folder to share from that account and exposes that folder through its own UI.
   - The dashboard groups connected sources by Microsoft account, then shows each selected shared folder as its own library card.
   - Supported preview behavior:
@@ -45,3 +45,4 @@ My personal projects
     - Audio: browser audio player
     - Native web video formats: browser video player
     - Less browser-friendly video formats such as `wmv` and `avi`: on-demand HLS transcoding with streaming playback
+
