@@ -37,6 +37,7 @@ My personal projects
 - [Direct OneDrive](https://kljsandjb.me) is a web app for connecting one or more OneDrive accounts and browsing shared folders through a clean interface.
   - After connecting a Microsoft account, the app lets you choose a folder to share from that account and exposes that folder through its own UI.
   - The dashboard groups connected sources by Microsoft account, then shows each selected shared folder as its own library card.
+  - You can disconnect your sharing whenever you want and this web app will NOT in any means storing any data.
   - Supported preview behavior:
     - Text files: inline preview
     - Code files: inline preview with syntax highlighting via `syntect`
@@ -45,4 +46,5 @@ My personal projects
     - Audio: browser audio player
     - Native web video formats: browser video player
     - Less browser-friendly video formats such as `wmv` and `avi`: on-demand HLS transcoding with streaming playback
-
+    <img width="967" height="1205" alt="Screenshot 2026-03-15 at 11 01 32 AM" src="https://github.com/user-attachments/assets/b3c63f7a-67be-4cfe-a50c-d2b651f09a32" />
+    <img width="925" height="1166" alt="Screenshot 2026-03-15 at 11 01 17 AM" src="https://github.com/user-attachments/assets/3f8ac6da-0f97-4783-a8f4-6b7b17de96ab" />
