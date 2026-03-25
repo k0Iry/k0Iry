@@ -31,7 +31,7 @@ My personal projects
   And if you find it interesting, don't hesitate to leave any comments or click likes under any post you like.
 
 - Order flow confirmation from CEXs to assist trading cryptos, it is not meant to be used solely but as a confluence, e.g. key S/R levels.
-  https://cvd.kljsandjb.me
+  https://cvdd.kljsandjb.me
   <img width="1494" height="841" alt="Screenshot 2026-03-05 at 11 36 59 PM" src="https://github.com/user-attachments/assets/8eea5f78-b87b-4e70-8986-20df19d1d9bf" />
 
 - [Direct OneDrive](https://kljsandjb.me) is a web app for connecting one or more OneDrive accounts and browsing shared folders through a clean interface.
