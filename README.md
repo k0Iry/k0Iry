@@ -25,12 +25,9 @@ My personal projects
   - It can leverage the power of AI to give you key summaries, saving you efforts of browsing all details.
   - It leaves memory on the internet, if it is important to you. :)
   
-  <img width="655" height="386" alt="Screenshot 2026-04-04 at 3 33 31 PM" src="https://github.com/user-attachments/assets/7a1811b0-dec2-42f3-84c9-b3f07cf2c8e8" />
-  <img width="657" height="456" alt="Screenshot 2026-04-04 at 3 33 55 PM" src="https://github.com/user-attachments/assets/f296b8bc-9163-4f87-b752-fdfcfc81123b" />
-
-  
-  Feel free to browse https://tg2web.live, meanwhile you can also join this [test channel](https://t.me/+KP5YLs5mgJc5YmVk) for viewing how good they keep in sync.
-  And if you find it interesting, don't hesitate to leave any comments or click likes under any post you like.
+    <img width="655" height="386" alt="Screenshot 2026-04-04 at 3 33 31 PM" src="https://github.com/user-attachments/assets/7a1811b0-dec2-42f3-84c9-b3f07cf2c8e8" />
+    <img width="657" height="456" alt="Screenshot 2026-04-04 at 3 33 55 PM" src="https://github.com/user-attachments/assets/f296b8bc-9163-4f87-b752-fdfcfc81123b" />
+  Feel free to browse https://tg2web.live
 
 - Order flow confirmation from CEXs to assist trading cryptos, it is not meant to be used solely but as a confluence, e.g. key S/R levels.
   https://cvdd.kljsandjb.me
